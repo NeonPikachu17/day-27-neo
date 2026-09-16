@@ -1,0 +1,27 @@
+{
+  "_comment": "Dynamic Feature Flag Configuration - release/v1.0",
+  "flags": {
+    "gait_biomechanics_v2": {
+      "description": "High-precision kinematic analysis engine for injury prevention",
+      "enabled": true
+    },
+    "live_turf_weather_sim": {
+      "description": "Dynamic turf condition and moisture simulation",
+      "enabled": true,
+      "rollout_percentage": 50
+    },
+    "exclusive_replay_lounge": {
+      "description": "Restricted access to high-definition archival race footage",
+      "enabled": true,
+      "allowed_users": [
+        "trainer_tsubaki",
+        "shin_kasatani",
+        "sakura_laurel"
+      ]
+    },
+    "maintenance_lock": {
+      "description": "System-wide administrative maintenance lockdown",
+      "enabled": false
+    }
+  }
+}

@@ -140,6 +140,54 @@ Marvelous Sunday
 
 ---
 
+## 🚩 Dynamic Feature Flag Architecture (`release/v1.0`)
+
+Implemented under Trunk-Based Development (Step 8), this repository features a zero-dependency, dynamic feature flag engine in Python that enables runtime feature toggling without code re-deployment.
+
+### ✨ Capabilities
+1. **Dynamic Hot-Reloading**: Automatically detects on-disk modifications to `config.json` via file `mtime` and reloads immediately without restarting running services.
+2. **Deterministic Percentage Rollouts**: Distributes traffic across 0–100% using deterministic SHA-256 modulo hashing on entity identifiers (e.g. `user_id`).
+3. **Targeted Access / Whitelisting**: Restricts experimental features to designated user lists (e.g., beta testers or staff accounts).
+4. **Environment Variable Overrides**: Instant operational control and emergency kill-switches (`FLAG_<NAME>=true|false`).
+5. **Clean Decorator API**: Simple `@require_flag` decorator with fallback execution support.
+
+### 📁 Config Overview (`config.json`)
+```json
+{
+  "flags": {
+    "gait_biomechanics_v2": {
+      "description": "High-precision kinematic analysis engine for injury prevention",
+      "enabled": true
+    },
+    "live_turf_weather_sim": {
+      "description": "Dynamic turf condition and moisture simulation",
+      "enabled": true,
+      "rollout_percentage": 50
+    },
+    "exclusive_replay_lounge": {
+      "description": "Restricted access to high-definition archival race footage",
+      "enabled": true,
+      "allowed_users": ["trainer_tsubaki", "shin_kasatani", "sakura_laurel"]
+    },
+    "maintenance_lock": {
+      "description": "System-wide administrative maintenance lockdown",
+      "enabled": false
+    }
+  }
+}
+```
+
+### 🚀 Running the Demonstration & Verification
+```bash
+# Run the interactive feature flag showcase
+python app.py
+
+# Run the automated assert-based test suite
+python test_feature_flags.py
+```
+
+---
+
 <div align="center">
 
 *Dedicated to the enduring legacy of Sakura Laurel (1991–2020).*
