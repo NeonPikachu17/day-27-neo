@@ -6,6 +6,8 @@
 [![MangaDex](https://img.shields.io/badge/Read-MangaDex-FF6740?style=for-the-badge&logo=mangadex&logoColor=white)](https://mangadex.org/title/778b8438-af3a-4534-841c-adf923b55ee1)
 [![Shonen Jump+](https://img.shields.io/badge/Official-Shonen_Jump%2B-red?style=for-the-badge)](https://shonenjumpplus.com/)
 [![Status](https://img.shields.io/badge/Status-Publishing-brightgreen?style=for-the-badge)](#)
+[![Format](https://img.shields.io/badge/Format-Bi--Weekly%20Manga-blueviolet?style=for-the-badge)](#)
+[![Artist](https://img.shields.io/badge/Artist-Shin%20Kasatani-gold?style=for-the-badge)](#)
 
 <p align="center">
   <i>"Even if my legs break, even if the road ahead is dark—I will bloom."</i>
@@ -19,109 +21,127 @@
 
 ## 📖 Overview
 
-**Uma Musume Pretty Derby: Star Blossom** (*ウマ娘 プリティーダービー スターブロッサム*) is an official spin-off manga written by Cygames and illustrated by **Shin Kasatani**. 
+**Uma Musume Pretty Derby: Star Blossom** (*ウマ娘 プリティーダービー スターブロッサム*) is an official spin-off manga written by Cygames and illustrated by **Shin Kasatani** (*Keppeki Danshi! Aoyama-kun*). Serialized simultaneously on *Shonen Jump+*, *Tonari no Young Jump*, and *YanJan!*, it is widely celebrated for its intense, high-contrast ink work and uncompromised sports drama.
 
-Unlike the comedic or slice-of-life entries in the franchise, *Star Blossom* is an intensely visceral sports drama. It chronicles the gritty, emotional journey of **Sakura Laurel**—a horse girl born with glass-fragile legs who defies long medical lay-offs and towering generational rivals to chase the pinnacle of Japanese turf racing.
-
----
-
-## 🏆 Sakura Laurel Official Race Record
-
-The historical turf campaign of Sakura Laurel (1994–1997) that forms the backbone of *Star Blossom*'s narrative:
-
-| Date | Race Name | Grade | Distance / Turf | Result | Margin / Note |
-| :--- | :--- | :--- | :--- | :---: | :--- |
-| **1994.01.06** | 4yo Debut (Nakayama) | Maiden | 1200m (Dirt) | **9th** | Rough debut on dirt |
-| **1994.01.30** | 4yo Maiden (Tokyo) | Maiden | 1600m (Dirt) | **3rd** | Shows fighting spirit |
-| **1994.02.20** | 4yo Maiden (Tokyo) | Maiden | 1800m (Dirt) | **1st** | First career maiden victory |
-| **1994.04.16** | 500-Under (Tokyo) | Allowance | 1800m (Turf) | **2nd** | Transition to classic turf |
-| **1994.05.08** | Aoba Sho (Tokyo) | GIII (Open) | 2400m (Turf) | **3rd** | Derby trial finish |
-| **1994.09.11** | 900-Under (Hakodate) | Allowance | 2000m (Turf) | **1st** | Decisive win off layoff |
-| **1994.10.09** | Saint Lite Kinen (Nakayama) | GII | 2200m (Turf) | **8th** | Fractured leg sustained |
-| **1995.03.05** | Uzuki Stakes (Nakayama) | Open | 2000m (Turf) | **2nd** | Return from injury |
-| **1995.03.26** | March Stakes (Nakayama) | GIII | 1800m (Turf) | **2nd** | Consistent contender |
-| **1995.04.23** | 1500-Under (Tokyo) | Allowance | 2000m (Turf) | **1st** | Class breakthrough |
-| **1996.03.09** | Nakayama Kinen (Nakayama) | GII | 1800m (Turf) | **1st** | Dominant return after long hiatus |
-| **1996.04.21** | Sankei Osaka Hai (Hanshin) | GII | 2000m (Turf) | **2nd** | Narrow miss to Tayasu Tsuyoshi |
-| **1996.04.28** | **Tenno Sho (Spring)** (Kyoto) | **GI** | **3200m (Turf)** | **1st** | Defeats Triple Crown holder Narita Brian |
-| **1996.10.27** | Tenno Sho (Autumn) (Tokyo) | GI | 2000m (Turf) | **3rd** | Late charge against Bubble Gum Fellow |
-| **1996.12.22** | **Arima Kinen** (Nakayama) | **GI** | **2500m (Turf)** | **1st** | Named 1996 JRA Horse of the Year |
-| **1997.04.27** | Tenno Sho (Spring) (Kyoto) | GI | 3200m (Turf) | **2nd** | Legendary duel with Mayano Top Gun |
-| **1997.09.14** | Prix Foy (Longchamp) | GII | 2400m (Turf) | **8th** | Career-ending tendon injury sustained |
+The story follows **Sakura Laurel**, an underdog runner born with notoriously brittle bones who endures severe rehabilitation under rookie trainer **Junji Tsubaki**. Set during the pinnacle of mid-1990s Japanese racing, it chronicles her climb from the lower stakes to historical showdowns against the "Three Titans" (三強) era.
 
 ---
 
-## 📚 Chapter-by-Chapter Guide
+## 🌸 Key Themes & Aesthetic Identity
 
-### Volume 1: *The Bud Beneath the Frost*
-> *Focus: The meeting of Trainer Junji Tsubaki and the frail-legged dreamer, Sakura Laurel.*
-
-* **Chapter 1: The Broken Bud**  
-  Rookie Trainer Junji Tsubaki searches for an athlete to stake his license on. He encounters Sakura Laurel running alone in the dark—blessed with phenomenal stride mechanics but condemned to recurring bone cracks.
-* **Chapter 2: Contract of Faith**  
-  Tsubaki confronts Laurel's former handlers, who view her as a lost cause. He presents an uncompromising recovery and pacing regimen, offering her a formal contract.
-* **Chapter 3: Stepping Onto the Track**  
-  Laurel enters her maiden campaign. Tsubaki carefully limits her workload to avoid reinjury while setting targets for Tokyo and Nakayama.
-* **Chapter 4: The Sound of the Turf**  
-  Laurel's breakthrough race on grass. The chapter reveals the mental trauma she carries from past bone injuries and her struggle to trust her stride at top speed.
+* **Weight and Inertia:** Shin Kasatani ditches idol gloss in favor of heavy brushstrokes, flared nostrils, ripping turf clods, and intense muscle strain.
+* **The Psychology of Rehabilitation:** Extensive story focus is placed on gait analysis, hydrotherapy, psychological fear of recurring fractures, and load balancing.
+* **The Trainer-Athlete Bond:** Junji Tsubaki is not an omniscient mastermind—he is a rookie making precarious gambles on custom shoeing and stamina pacing to keep Laurel's career alive.
 
 ---
 
-### Volume 2: *Fractured Horizons*
-> *Focus: The climb toward the Classic grade and the shadow of the reigning monster, Narita Brian.*
+## 🏆 Complete Turf Record: Sakura Laurel (Historical Canon)
 
-* **Chapter 5: Trial of the Blue Leaves (Aoba Sho)**  
-  Laurel battles in the prestigious Tokyo 2400m trial, proving she can challenge elite-tier competition at middle distance.
-* **Chapter 6: The Monster's Gaze**  
-  Narita Brian sweeps the classic Triple Crown. Laurel watches Brian's terrifying speed from the paddock, realizing the sheer distance between herself and the apex.
-* **Chapter 7: Disaster at Nakayama (Saint Lite Kinen)**  
-  A devastating misstep during the final turn. Laurel sustains a major fracture, plunging both runner and trainer into the darkest phase of their partnership.
-* **Chapter 8: The Long Winter**  
-  Months of excruciating hydrotherapy, leg bandages, and mental conditioning. Tsubaki refuses to abandon Laurel, refining her core mechanics from scratch.
-
----
-
-### Volume 3: *The Spring Awakening*
-> *Focus: Rehabilitation, return to open stakes, and the emergence of new generation rivals.*
-
-* **Chapter 9: The Second First Step**  
-  Laurel returns to the racing paddock. She runs with altered pacing, focusing on energy preservation rather than early sprints.
-* **Chapter 10: Enter the Tactician (Mayano Top Gun)**  
-  Mayano Top Gun and Marvelous Sunday enter the scene, shaking up the turf landscape with varied running dynamics.
-* **Chapter 11: The Nakayama Kinen Triumph**  
-  Over a year of calculated patience pays off: Laurel secures her first Graded stakes victory with a thunderous late-stretch burst.
-* **Chapter 12: Ticket to the 3200m**  
-  Tsubaki and Laurel officially enter the 1996 Tenno Sho (Spring), knowing they must directly confront Narita Brian at maximum stamina distance.
+| Date | Race Name | Grade | Venue & Turf | Finish | Tactical Notes |
+| :--- | :--- | :---: | :--- | :---: | :--- |
+| **1994.01.06** | 4yo Debut | Maiden | Nakayama 1200m (Dirt) | **9th** | Stumbled on dirt; clear mismatch for her stride |
+| **1994.01.30** | 4yo Maiden | Maiden | Tokyo 1600m (Dirt) | **3rd** | First glimpse of closing sprint |
+| **1994.02.20** | 4yo Maiden | Maiden | Tokyo 1800m (Dirt) | **1st** | Breakthrough maiden win |
+| **1994.04.16** | 500-Under | Allowance | Tokyo 1800m (Turf) | **2nd** | Official transition to grass racing |
+| **1994.05.08** | Aoba Sho | GIII | Tokyo 2400m (Turf) | **3rd** | Tokyo Yushun (Derby) qualification trial |
+| **1994.09.11** | 900-Under | Allowance | Hakodate 2000m (Turf) | **1st** | Dominant return after summer pasture rest |
+| **1994.10.09** | Saint Lite Kinen | GII | Nakayama 2200m (Turf) | **8th** | **Fractured left cannon bone** sustained mid-race |
+| **1995.03.05** | Uzuki Stakes | Open | Nakayama 2000m (Turf) | **2nd** | Return from 5-month medical lay-off |
+| **1995.03.26** | March Stakes | GIII | Nakayama 1800m (Turf) | **2nd** | Misses win by a nose |
+| **1995.04.23** | 1500-Under | Allowance | Tokyo 2000m (Turf) | **1st** | Dominates field; fractures right front leg soon after |
+| **1996.03.09** | Nakayama Kinen | GII | Nakayama 1800m (Turf) | **1st** | Resurgence after a grueling 11-month layoff |
+| **1996.04.21** | Sankei Osaka Hai | GII | Hanshin 2000m (Turf) | **2nd** | Sharp prep race against Tayasu Tsuyoshi |
+| **1996.04.28** | **Tenno Sho (Spring)** | **GI** | **Kyoto 3200m (Turf)** | **1st** | **Defeats Triple Crown titan Narita Brian** |
+| **1996.10.27** | Tenno Sho (Autumn) | GI | Tokyo 2000m (Turf) | **3rd** | Trapped in pack; surges late behind Bubble Gum Fellow |
+| **1996.12.22** | **Arima Kinen** | **GI** | **Nakayama 2500m (Turf)** | **1st** | **Secures JRA Horse of the Year honors** |
+| **1997.04.27** | Tenno Sho (Spring) | GI | Kyoto 3200m (Turf) | **2nd** | Historic record-breaking duel vs. Mayano Top Gun |
+| **1997.09.14** | Prix Foy | GII | Longchamp 2400m (Turf) | **8th** | Tendon rupture sustained abroad; forced retirement |
 
 ---
 
-### Volume 4: *Clash of Titans (Tenno Sho Spring)*
-> *Focus: The legendary showdown at Kyoto Racecourse.*
+## 📚 Volume & Arc Directory
 
-* **Chapter 13: The Yodo Slope**  
-  The 3200m marathon begins. Laurel conserves stamina while the pack surges through Kyoto's deceptive downhill slope.
-* **Chapter 14: Shadow of the Sovereign**  
-  Narita Brian activates his signature acceleration on the final turn, leaving the field behind. Laurel refuses to yield, launching into Brian's slipstream.
-* **Chapter 15: Full Bloom (Mankai)**  
-  A double-page spread showdown. Laurel unleashes every ounce of power in her healed legs, overtaking Brian at the wire to capture her first Grade I crown.
-* **Chapter 16: The Crown's Weight**  
-  The aftermath of victory. Laurel is recognized as an elite titan of the turf, while Mayano Top Gun prepares his counter-strategy for the upcoming Arima Kinen.
+**Volume 1: The Frost-Bound Sprout (Chapters 1–7)**
+* Focuses on the chance encounter between Trainer Junji Tsubaki and Sakura Laurel.
+* Tsubaki isolates her flaw: her ankle joints take extreme torque due to an unbalanced back-kick.
+* Covers her dirt trials and her initial conversion to middle-distance turf.
+
+**Volume 2: Shattered Ambition (Chapters 8–15)**
+* The Classic generation heats up under the shadow of Narita Brian's Triple Crown sweep.
+* The catastrophic fracture during the Saint Lite Kinen at Nakayama.
+* Detailed depiction of orthopedic rehabilitation, water-treadmill drills, and psychological rebuilding.
+
+**Volume 3: The Gathering Storm (Chapters 16–23)**
+* Introduction of the generational foil: the tactical prodigy **Mayano Top Gun** and the unrelenting **Marvelous Sunday**.
+* Laurel's explosive return in the Nakayama Kinen.
+* Tactical preparation for Kyoto's unforgiving 3200-meter stamina gauntlet.
+
+**Volume 4: The Spring Blooming (Chapters 24–31)**
+* The 1996 Tenno Sho (Spring) showdown.
+* Frame-by-frame deconstruction of the Yodo outer course hill climb and downhill acceleration.
+* Laurel's triumph over Narita Brian, establishing her as an undeniable champion.
 
 ---
 
-## 👥 Key Cast & Rivals
+## ⚔️ Tactical Matrix: The Mid-90s Heavyweights
 
-| Character | Real-Life Counterpart | Running Style | Signature Race |
-| :--- | :--- | :--- | :--- |
-| **Sakura Laurel** | Sakura Laurel (1991–2020) | Betwixt / Late Surge (差し) | 1996 Tenno Sho (Spring), 1996 Arima Kinen |
-| **Narita Brian** | Narita Brian (1991–1998) | Pace / Dominant Front (先行) | 1994 Japanese Triple Crown |
-| **Mayano Top Gun** | Mayano Top Gun (1992–2019) | Free / Multi-Tactical (自在) | 1997 Tenno Sho (Spring), 1995 Arima Kinen |
-| **Marvelous Sunday** | Marvelous Sunday (1992–2016) | Late Surge (差し) | 1997 Takarazuka Kinen |
+
+```
+
+```
+           [ FRONT RUNNERS / LEAD ]
+                     │
+                     ▼
+              Mayano Top Gun (Variable)
+                     │
+   ┌─────────────────┴─────────────────┐
+   ▼                                   ▼
+
+```
+
+[ PACE / LEADER ]                  [ LATE SURGE / BETWIXT ]
+Narita Brian                       Sakura Laurel
+(Raw Stride & Power)               (Explosive Turn of Foot)
+│
+▼
+Marvelous Sunday
+(Relentless Guts)
+
+```
+
+* **Sakura Laurel (差し - Sashi / Late Surge):** Requires high-tempo drafting behind the front pack to conserve fragile cannon bones before exploding over the final 300 meters.
+* **Narita Brian (先行 - Senkou / Pace Leader):** Overwhelms rivals through immense cardiovascular capacity and an unmatched closing stride initiated early on the 4th turn.
+* **Mayano Top Gun (自在 - Jizai / Flexible):** Adapts instantaneously—capable of running wire-to-wire lead (Nige) or lurking at the dead rear until the homestretch.
+
+---
+
+## 🏇 Real-World Equine Trivia
+
+* **The Glass Thoroughbred:** Sakura Laurel was notoriously prone to chronic bone periostitis and leg fractures, missing two full Classic Triple Crown campaigns before ever winning a Grade I race at age five.
+* **The "Sakura" Dynasty:** Bred by Tanioka Bokujo, Laurel carried the signature "Sakura" prefix alongside hall-of-famers **Sakura Chiyono O** and sprint monarch **Sakura Bakushin O**.
+* **French Campaign:** Laurel's career concluded alongside jockey Shinji Fujita at Longchamp in the 1997 Prix Foy, where a severe tendon breakdown prevented him from contesting the Prix de l'Arc de Triomphe.
+
+---
+
+## 💬 Fan & Critical Reception
+
+> *"Star Blossom treats turf racing with the gravity and weight of a boxing manga. The dirt kicked up in the early chapters feels genuinely suffocating."*
+
+> *"Kasatani's portrayal of Laurel's rehabilitation makes every single stride in the 1996 Tenno Sho feel earned. You feel the strain on every bone plate."*
+
+---
+
+## 🔗 Official Media & Reading Links
+
+* [Official Shonen Jump+ Serialization](https://shonenjumpplus.com/)
+* [Tonari no Young Jump Official Portal](https://tonarinoyj.jp/)
+* [Cygames Uma Musume Official Project Site](https://umamusume.jp/)
+* [English Scanlation Project on MangaDex](https://mangadex.org/title/778b8438-af3a-4534-841c-adf923b55ee1)
 
 ---
 
 <div align="center">
 
-*Curated with 🌸 for Uma Musume enthusiasts.*
+*Dedicated to the enduring legacy of Sakura Laurel (1991–2020).*
 
 </div>
